@@ -1,0 +1,88 @@
+:root{
+    --red: #b30041;
+    --white: #ffffff;
+    --black: #040404;
+    --dark-gray: #7d7f7c;
+    --eggshell: #f0ead6;
+}
+body{
+    margin: 0;
+    font-family: "Cherry Cream Soda", "Gothic A1", sans-serif;
+    color: var(--black);
+}
+/*header*/
+header{
+    text-align: center;
+    background-image: url(/images/diner_wallpaper.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+header h1{
+    margin: 0;
+}
+.banner{
+    color: var(--white);
+    background-color: #04040455;
+}
+/*nav*/
+nav{
+    position: sticky;
+    top: 0;
+    background-color: var(--dark-gray);
+    color: var(--white);
+    overflow: hidden;
+    padding: 10px;
+    text-align: center;
+}
+nav a{
+    padding: 10px;
+}
+nav a:hover{
+    background-color: var(--red);
+    transition: background-color 0.4s linear;
+    cursor: pointer;
+}
+/*main*/
+main{
+    background-color: var(--eggshell);
+    padding: 10%;
+}
+section h2{
+    text-align: center;
+}
+/*link*/
+.link{
+    text-align: center;
+}
+.link span{
+    background-color: var(--red);
+    color: var(--white);
+    padding: 10px;
+    border-radius: 5px;
+}
+.link a{
+    text-decoration: none;
+}
+/*menu items*/
+
+/*footer*/
+footer{
+    background-color: var(--dark-gray);
+    color: var(--white);
+    padding: 10px;
+    text-align: center;
+    overflow: auto;
+}
+.footer-contact{
+    text-align: left;
+}
+.footer-contact a{
+    text-decoration: none;
+}
+.footer-contact-header{
+    border-bottom: 2px solid var(--red);
+    color: var(--white);
+    font-weight: bold;
+}

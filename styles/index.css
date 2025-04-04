@@ -1,0 +1,136 @@
+:root{
+    --red: #b30041;
+    --white: #ffffff;
+    --black: #040404;
+    --dark-gray: #7d7f7c;
+    --eggshell: #f0ead6;
+}
+body{
+    margin: 0;
+    font-family: "Cherry Cream Soda", "Gothic A1", sans-serif;
+    color: var(--black);
+}
+/*header*/
+header{
+    text-align: center;
+    background-image: url(/images/diner_wallpaper.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+header h1{
+    margin: 0;
+}
+.banner{
+    color: var(--white);
+    background-color: #04040455;
+}
+/*main*/
+main{
+    background-color: var(--eggshell);
+    padding: 10%;
+}
+section h2{
+    text-align: center;
+}
+/*link*/
+.link{
+    text-align: center;
+}
+.link span{
+    background-color: var(--red);
+    color: var(--white);
+    padding: 10px;
+    border-radius: 5px;
+}
+.link a{
+    text-decoration: none;
+}
+/*intro*/
+.intro{
+    text-align: center;
+}
+/*limited items*/
+
+/*reviews*/
+.review-slider{
+    position: relative;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+    overflow: hidden;
+}
+.slides p{
+    text-align: center;
+    justify-content: center;
+    width: 75%;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /*
+    display: none;
+    */
+}
+.review-slider button{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 2rem;
+    padding: 10px 15px;
+    background-color: var(--red);
+    border: none;
+    cursor: pointer;
+}
+.prev{
+    left: 0;
+}
+.next{
+    right: 0;
+}
+.fa-solid.fa-arrow-left, .fa-solid.fa-arrow-right{
+    color: var(--white);
+}
+/*faq*/
+.faq-question{
+    background-color: var(--red);
+    color: var(--white);
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    font-family: "Cherry Cream Soda", "Gothic A1", sans-serif;
+    font-size: 16px;
+}
+.faq-question:hover{
+    cursor: pointer;
+    background-color: var(--dark-gray);
+}
+.faq-answer{
+    padding: 18px;
+    background-color: var(--eggshell);
+    overflow: hidden;
+    /*display: none;*/
+}
+/*footer*/
+footer{
+    background-color: var(--dark-gray);
+    color: var(--white);
+    padding: 10px;
+    text-align: center;
+    overflow: auto;
+}
+.footer-contact{
+    text-align: left;
+}
+.footer-contact a{
+    text-decoration: none;
+}
+.footer-contact-header{
+    border-bottom: 2px solid var(--red);
+    color: var(--white);
+    font-weight: bold;
+}
