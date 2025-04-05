@@ -1,6 +1,8 @@
 //variables for review slider
 const slides = document.querySelectorAll(".slides p");
 let slideIndex = 0;
+//variables for FAQ accordion
+let question = document.getElementsByClassName("faq-question");
 
 /* review slider */
 //show first slide on startup
@@ -10,7 +12,6 @@ function initializeSlider(){
         slides[slideIndex].classList.add("displaySlide");
     }
 }
-
 //show respective slide by index
 function showSlide(index, dir){
     if(index >= slides.length){ //reset to first slide
@@ -39,4 +40,18 @@ function prevSlide(){
 function nextSlide(){
     slideIndex++;
     showSlide(slideIndex, 'next');
+}
+
+/*Frequently Asked Questions*/
+for(let i = 0; i < question.length; i++){
+    question[i].addEventListener("click", event => {
+        //pick corresponding answer to question
+        let answer = question[i].nextElementSibling;
+        //toggle display style for answer
+        if(answer.style.display === "block"){
+            answer.style.display = "none";
+        } else{
+            answer.style.display = "block";
+        }
+    });
 }

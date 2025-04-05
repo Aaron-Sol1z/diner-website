@@ -120,9 +120,10 @@ p.displaySlide{
 }
 .faq-answer{
     padding: 18px;
-    background-color: var(--eggshell);
+    background-color: var(--dark-gray);
+    color: var(--white);
     overflow: hidden;
-    /*display: none;*/
+    display: none;
 }
 /*footer*/
 footer{
