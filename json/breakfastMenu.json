@@ -1,0 +1,111 @@
+{
+    "Entrees":[
+        {
+            "name": "Omelette",
+            "img": "../images/breakfast/entrees/omelette.png",
+            "price": 12.19,
+            "cal": 220,
+            "desc": "A fresh omelette filled with cheddar cheese and your choice of vegetables or ground beef."
+        },
+        {
+            "name": "Sunny Side Ups and Toast",
+            "img": "../images/breakfast/entrees/fried_eggs_and_toast.png",
+            "price": 10.69,
+            "cal": 140,
+            "desc": "Two (2) fried eggs with runny yolk served on sourdough toast."
+        },
+        {
+            "name": "Scrambled Eggs",
+            "img": "../images/breakfast/entrees/scrambled_eggs.png",
+            "price": 6.99,
+            "cal": 180,
+            "desc": "A plate of classic, seasoned scrambled eggs."
+        },
+        {
+            "name": "French Toast",
+            "img": "../images/breakfast/entrees/french_toast.png",
+            "price": 8.99,
+            "cal": 550,
+            "desc": "Two (2) slabs of toast with cinnamon and topped with chopped fruit and your choice of strawberry, blueberry, or maple syrup."
+        },
+        {
+            "name": "Pancakes",
+            "img": "../images/breakfast/entrees/pancakes.png",
+            "price": 6.99,
+            "cal": 350,
+            "desc": "Three (3) pancakes topped with butter and your choice of strawberry, blueberry, or maple syrup."
+        },
+        {
+            "name": "Crepes",
+            "img": "../images/breakfast/entrees/crepes.png",
+            "price": 6.99,
+            "cal": 110,
+            "desc": "Two (2) crepes topped with strawberries and filled with cream cheese."
+        },
+        {
+            "name": "Breakfast Burger",
+            "img": "../images/breakfast/entrees/breakfast_burger.png",
+            "price": 6.99,
+            "cal": 600,
+            "desc": "A hearty beef patty topped with avocado, bacon, and a fried egg served in between two biscuits."
+        },
+        {
+            "name": "Avocado Toast",
+            "img": "../images/breakfast/entrees/avocado_toast.png",
+            "price": 6.99,
+            "cal": 195,
+            "desc": "Toast served with avocado and everything bagel seasoning."
+        },
+        {
+            "name": "Chorizo Breakfast Burrito",
+            "img": "../images/breakfast/entrees/breakfast_burrito.png",
+            "price": 6.99,
+            "cal": 400,
+            "desc": "A burrito filled with scrambled eggs, chopped vegetables, and chorizo sausage."
+        }
+    ],
+    "Sides":[
+        {
+            "name": "House Potatoes",
+            "img": "../images/breakfast/sides/house_potatoes.png",
+            "price": 4.99,
+            "cal": 160,
+            "desc": "A plate of seasoned and fried potato wedges."
+        },
+        {
+            "name": "Hash Browns",
+            "img": "../images/breakfast/sides/hashbrowns.png",
+            "price": 4.99,
+            "cal": 185,
+            "desc": "A plate of crispy hash browns."
+        },
+        {
+            "name": "Bacon Strips",
+            "img": "../images/breakfast/sides/bacon.png",
+            "price": 5.99,
+            "cal": 172,
+            "desc": "Four (4) bacon strips."
+        },
+        {
+            "name": "Sausage Links",
+            "img": "../images/breakfast/sides/sausage_links.png",
+            "price": 5.99,
+            "cal": 360,
+            "desc": "Four (4) sausage links."
+        },
+        {
+            "name": "Fruit Cup",
+            "img": "../images/breakfast/sides/fruit_cup.png",
+            "price": 1.99,
+            "cal": 70,
+            "desc": "A cup of grapes, melons, and orange slices."
+        },
+        {
+            "name": "Toast",
+            "img": "../images/breakfast/sides/toast.png",
+            "price": 2.99,
+            "cal": 80,
+            "desc": "Two (2) pieces of toast topped with your choice of butter or jelly."
+        }
+    ]
+}

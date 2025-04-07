@@ -1,0 +1,32 @@
+{
+    "Drinks":[
+        {
+            "name": "Soft Drinks",
+            "img": "../images/drinks/soft_drinks.png",
+            "price": 2.59,
+            "cal": 150,
+            "desc": "Coke, Diet Coke, Sprite, Root Beer, Orange."
+        },
+        {
+            "name": "Juice",
+            "img": "../images/drinks/juice.png",
+            "price": 2.29,
+            "cal": 110,
+            "desc": "Pineapple, Orange, Mango, Lemonade, Pink Lemonade"
+        },
+        {
+            "name": "Coffee",
+            "img": "../images/drinks/coffee.png",
+            "price": 3.59,
+            "cal": 5,
+            "desc": "Black, Latte, Americano, Mocha, Cold Brew."
+        },
+        {
+            "name": "Tea",
+            "img": "../images/drinks/tea.png",
+            "price": 3.59,
+            "cal": 2,
+            "desc": "Sweet, Green, Chamomile, Mint, Lemon."
+        }
+    ]
+}

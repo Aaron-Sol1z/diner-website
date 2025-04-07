@@ -1,0 +1,62 @@
+{
+    "Kids Breakfast":[
+        {
+            "name": "Scrambled Eggs",
+            "img": "../images/kids/breakfast/scrambled_eggs.png",
+            "price": 4.99,
+            "cal": 140,
+            "desc": "A plate of classic, seasoned scrambled eggs."
+        },
+        {
+            "name": "Pancakes",
+            "img": "../images/kids/breakfast/pancakes.png",
+            "price": 4.99,
+            "cal": 120,
+            "desc": "Two (2) pancakes topped with butter and your choice of strawberry, blueberry, or maple syrup."
+        },
+        {
+            "name": "French Toast",
+            "img": "../images/kids/breakfast/french_toast.png",
+            "price": 6.99,
+            "cal": 250,
+            "desc": "Two (2) slabs of toast with cinnamon and topped with chopped fruit and your choice of strawberry, blueberry, or maple syrup."
+        }
+    ],
+    "Kids All Day":[
+        {
+            "name": "Grilled Cheese Sandwich",
+            "img": "../images/kids/all_day/grilled_cheese.png",
+            "price": 4.99,
+            "cal": 300,
+            "desc": "Grilled cheese sandwich served with a side of fries."
+        },
+        {
+            "name": "Chicken Strips",
+            "img": "../images/kids/all_day/chicken_strips.png",
+            "price": 5.99,
+            "cal": 290,
+            "desc": "Three (3) crispy chicken strips served with fries."
+        },
+        {
+            "name": "Mac and Cheese",
+            "img": "../images/kids/all_day/mac_and_cheese.png",
+            "price": 5.29,
+            "cal": 300,
+            "desc": "A bowl of macaroni and cheese."
+        },
+        {
+            "name": "Mini Cheeseburger",
+            "img": "../images/kids/all_day/cheeseburger.png",
+            "price": 6.59,
+            "cal": 350,
+            "desc": "A cheeseburger served with a side of fries."
+        },
+        {
+            "name": "Mini Spaghetti",
+            "img": "../images/kids/all_day/spaghetti.png",
+            "price": 6.59,
+            "cal": 500,
+            "desc": "A plate of spaghetti and meatballs topped with red sauce."
+        }
+    ]
+}
