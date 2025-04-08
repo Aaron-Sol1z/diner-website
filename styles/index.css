@@ -9,6 +9,7 @@ body{
     margin: 0;
     font-family: "Cherry Cream Soda", "Gothic A1", sans-serif;
     color: var(--black);
+    font-size: 18px;
 }
 /*header*/
 header{
@@ -25,6 +26,9 @@ header h1{
 .banner{
     color: var(--white);
     background-color: #04040455;
+}
+header img{
+    max-width: 100%;
 }
 /*main*/
 main{
@@ -105,6 +109,7 @@ section h2{
     padding-top: 20px;
     padding-bottom: 20px;
     display: none;
+    overflow: auto;
 }
 p.displaySlide{
     display: block;
@@ -114,10 +119,10 @@ p.displaySlide{
     top: 50%;
     transform: translateY(-50%);
     font-size: 2rem;
-    padding: 10px 15px;
     background-color: var(--red);
     border: none;
     cursor: pointer;
+    height: 100%;
 }
 .prev{
     left: 0;
@@ -178,4 +183,16 @@ footer{
     border-bottom: 2px solid var(--red);
     color: var(--white);
     font-weight: bold;
+}
+/*responsive css*/
+@media(max-width:520px){
+    .body{
+        font-size: 16px;
+    }
+    .itemDisplay{
+        width: 100%;
+    }
+    .slides p{
+        width: 50%;
+    }
 }

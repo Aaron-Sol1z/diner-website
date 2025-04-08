@@ -9,6 +9,7 @@ body{
     margin: 0;
     font-family: "Cherry Cream Soda", "Gothic A1", sans-serif;
     color: var(--black);
+    font-size: 18px;
 }
 /*header*/
 header{
@@ -25,6 +26,9 @@ header h1{
 .banner{
     color: var(--white);
     background-color: #04040455;
+}
+header img{
+    max-width: 100%;
 }
 /*nav*/
 nav{
@@ -123,4 +127,19 @@ footer{
     border-bottom: 2px solid var(--red);
     color: var(--white);
     font-weight: bold;
+}
+/*responsive css*/
+@media(max-width:610px){
+    nav a{
+        display: block;
+        font-size: 14px;
+    }
+}
+@media(max-width:520px){
+    .body{
+        font-size: 16px;
+    }
+    .itemDisplay{
+        width: 100%;
+    }
 }
