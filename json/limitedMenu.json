@@ -2,35 +2,35 @@
     "Limited Items":[
         {
             "name": "Mint Milkshake",
-            "img": "../images/limited/mint-milkshake.png",
+            "img": "./images/limited/mint-milkshake.png",
             "price": 5.99,
             "cal": 585,
             "desc": "8 oz. milkshake with mint ice cream."
         },
         {
             "name": "Spicy Veggie Spaghetti",
-            "img": "../images/limited/spicy-veggie-spaghetti.png",
+            "img": "./images/limited/spicy-veggie-spaghetti.png",
             "price": 12.99,
             "cal": 200,
             "desc": "Spaghetti served with onions, garlic, and peppers, topped with spicy tomato sauce."
         },
         {
             "name": "1st Year Anniversary Pancakes",
-            "img": "../images/limited/1st-year-anniv-pancake.png",
+            "img": "./images/limited/1st-year-anniv-pancake.png",
             "price": 10.59,
             "cal": 600,
             "desc": "Two (2) pancakes served with powdered sugar, sprinkles, and whipped cream."
         },
         {
             "name": "Fried Zucchini",
-            "img": "../images/limited/fried-zucchini.png",
+            "img": "./images/limited/fried-zucchini.png",
             "price": 5.99,
             "cal": 296,
             "desc": "Eight (8) fried zucchini sticks served with your choice of ranch, marinara sauce, or garlic aioli."
         },
         {
             "name": "Lamb Burger",
-            "img": "../images/limited/lamb-burger.png",
+            "img": "./images/limited/lamb-burger.png",
             "price": 14.29,
             "cal": 260,
             "desc": "A lamb patty topped with red onion, lettuce, and tzatziki sauce."
