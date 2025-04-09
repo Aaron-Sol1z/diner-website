@@ -2,42 +2,42 @@
     "Burgers":[
         {
             "name": "Classic American Burger",
-            "img": "../images/all_day/burgers/classic_burger.png",
+            "img": "./images/all-day/burgers/classic-burger.png",
             "price": 12.19,
             "cal": 300,
             "desc": "The classic beef patty served with lettuce, onions, tomato, and pickles in between artisan buns."
         },
         {
             "name": "Classic American Cheeseburger",
-            "img": "../images/all_day/burgers/cheeseburger.png",
+            "img": "./images/all-day/burgers/cheeseburger.png",
             "price": 12.59,
             "cal": 450,
             "desc": "Like our Classic American Burger friend, but now served with melted, cheddar cheese."
         },
         {
             "name": "The Western Burger with No Name",
-            "img": "../images/all_day/burgers/western_burger.png",
+            "img": "./images/all-day/burgers/western-burger.png",
             "price": 12.99,
             "cal": 600,
             "desc": "A beef patty topped with onion rings, white cheese, grilled onions, and barbeque sauce."
         },
         {
             "name": "Veggie Burger",
-            "img": "../images/all_day/burgers/veggie_burger.png",
+            "img": "./images/all-day/burgers/veggie-burger.png",
             "price": 10.99,
             "cal": 400,
             "desc": "Bean patty with lettuce, onions, tomato, and pickles."
         },
         {
             "name": "Chicken Burger",
-            "img": "../images/all_day/burgers/chicken_burger.png",
+            "img": "./images/all-day/burgers/chicken-burger.png",
             "price": 11.29,
             "cal": 542,
             "desc": "Your choice of grilled or crispy chicken served with white cheese, lettuce, and mustard."
         },
         {
             "name": "Patty Melt",
-            "img": "../images/all_day/burgers/patty_melt.png",
+            "img": "./images/all-day/burgers/patty-melt.png",
             "price": 11.99,
             "cal": 899,
             "desc": "A patty with melted swiss cheese and grilled onions served in sourdough or wheat bread."
@@ -46,49 +46,49 @@
     "Sandwiches":[
         {
             "name": "Philly Cheesesteak",
-            "img": "../images/all_day/sandwiches/philly_cheesesteak.png",
+            "img": "./images/all-day/sandwiches/philly-cheesesteak.png",
             "price": 12.19,
             "cal": 700,
             "desc": "Steak sandwich served with white cheese, mushrooms, onions, and sauteed peppers in a hoagie bread."
         },
         {
             "name": "Club Sandwich",
-            "img": "../images/all_day/sandwiches/club_sandwich.png",
+            "img": "./images/all-day/sandwiches/club-sandwich.png",
             "price": 11.99,
             "cal": 550,
             "desc": "Your choice of turkey or ham topped with avocado, pepper, and bacon."
         },
         {
             "name": "Cold Cut Classic",
-            "img": "../images/all_day/sandwiches/cold_cut.png",
+            "img": "./images/all-day/sandwiches/cold-cut.png",
             "price": 8.99,
             "cal": 300,
             "desc": "Turkey, pastrami, or ham sandwich topped with mayo, lettuce, and your choice of cheddar, provolone, or white cheese. Served on your choice of white, sourdough, or wheat bread."
         },
         {
             "name": "BLT",
-            "img": "../images/all_day/sandwiches/blt.png",
+            "img": "./images/all-day/sandwiches/blt.png",
             "price": 8.99,
             "cal": 447,
             "desc": "Bacon, lettuce, and tomato served on your choice of white, sourdough, or wheat bread."
         },
         {
             "name": "Meatball Sub",
-            "img": "../images/all_day/sandwiches/meatball_sub.png",
+            "img": "./images/all-day/sandwiches/meatball-sub.png",
             "price": 10.79,
             "cal": 550,
             "desc": "Italian meatballs topped with red sauce and mozzarella cheese served in a hoagie bread."
         },
         {
             "name": "Grilled Cheese",
-            "img": "../images/all_day/sandwiches/grilled_cheese.png",
+            "img": "./images/all-day/sandwiches/grilled-cheese.png",
             "price": 9.99,
             "cal": 300,
             "desc": "Grilled cheese sandwich with your choice of cheddar, provolone, or white served on your choice of white, sourdough, or wheat bread."
         },
         {
             "name": "Cali Veggie",
-            "img": "../images/all_day/sandwiches/veggie_sandwich.png",
+            "img": "./images/all-day/sandwiches/veggie-sandwich.png",
             "price": 10.99,
             "cal": 200,
             "desc": "A sandwich with tomatoes, cucumbers, lettuce, and your choice of avocado, hummus, or pesto spread."
@@ -97,35 +97,35 @@
     "Pasta":[
         {
             "name": "Fettuccine Alfredo",
-            "img": "../images/all_day/pasta/fettuccine_alfredo.png",
+            "img": "./images/all-day/pasta/fettuccine-alfredo.png",
             "price": 13.19,
             "cal": 600,
             "desc": "A plate of fettuccine tossed in Parmesan cheese with mushrooms."
         },
         {
             "name": "Spaghetti and Meatballs",
-            "img": "../images/all_day/pasta/spaghetti_meatballs.png",
+            "img": "./images/all-day/pasta/spaghetti-meatballs.png",
             "price": 12.59,
             "cal": 800,
             "desc": "A plate of spaghetti and seasoned, Italian meatballs topped with red sauce."
         },
         {
             "name": "Chicken Penne",
-            "img": "../images/all_day/pasta/chicken_penne.png",
+            "img": "./images/all-day/pasta/chicken-penne.png",
             "price": 14.29,
             "cal": 436,
             "desc": "A plate of penne pasta, cooked chicken, baby tomatoes, and peas topped with alfredo sauce."
         },
         {
             "name": "Lasagna",
-            "img": "../images/all_day/pasta/lasagna.png",
+            "img": "./images/all-day/pasta/lasagna.png",
             "price": 13.59,
             "cal": 450,
             "desc": "A slice of lasagne stuffed in ricotta cheese, red sauce, and Italian sausage."
         },
         {
             "name": "Stuffed Ravioli",
-            "img": "../images/all_day/pasta/ravioli.png",
+            "img": "./images/all-day/pasta/ravioli.png",
             "price": 11.99,
             "cal": 275,
             "desc": "A plate of ravioli stuffed with ricotta cheese and your choice of ground beef or spinach and mushrooms."
@@ -134,56 +134,56 @@
     "Salads and Soups":[
         {
             "name": "Greek Salad",
-            "img": "../images/all_day/salads_and_soups/greek_salad.png",
+            "img": "./images/all-day/salads-and-soups/greek-salad.png",
             "price": 10.99,
             "cal": 211,
             "desc": "Salad topped with tomatoes, cucumbers, bell peppers, feta cheese, and tossed with olive oil."
         },
         {
             "name": "Caesar Salad",
-            "img": "../images/all_day/salads_and_soups/caesar_salad.png",
+            "img": "./images/all-day/salads-and-soups/caesar-salad.png",
             "price": 12.99,
             "cal": 470,
             "desc": "Salad with Parmesan cheese, croutons, avocado, and topped with caesar dressing."
         },
         {
             "name": "Mediterranean Chicken",
-            "img": "../images/all_day/salads_and_soups/mediterranean_chicken_salad.png",
+            "img": "./images/all-day/salads-and-soups/mediterranean-chicken-salad.png",
             "price": 11.99,
             "cal": 350,
             "desc": "Marinated chicken over a salad with cucumbers, tomatoes, feta cheese, and parsley."
         },
         {
             "name": "Pick Me Up Chicken Noodle Soup",
-            "img": "../images/all_day/salads_and_soups/chicken_noodle_soup.png",
+            "img": "./images/all-day/salads-and-soups/chicken-noodle-soup.png",
             "price": 7.99,
             "cal": 120,
             "desc": "Chicken, noodles, and chopped carrots and celery in chicken broth. Great for days when you're under the weather."
         },
         {
             "name": "Italian Meatball Soup",
-            "img": "../images/all_day/salads_and_soups/meatball_soup.png",
+            "img": "./images/all-day/salads-and-soups/meatball-soup.png",
             "price": 9.99,
             "cal": 243,
             "desc": "Italian meatballs, potatoes, garlic, and chopped squash in boiling hot beef broth."
         },
         {
             "name": "French Onion Soup",
-            "img": "../images/all_day/salads_and_soups/french_onion_soup.png",
+            "img": "./images/all-day/salads-and-soups/french-onion-soup.png",
             "price": 8.99,
             "cal": 370,
             "desc": "Caramelized onion and melted cheese over beef stock. Served with sourdough bread."
         },
         {
             "name": "Chili",
-            "img": "../images/all_day/salads_and_soups/chili.png",
+            "img": "./images/all-day/salads-and-soups/chili.png",
             "price": 7.59,
             "cal": 320,
             "desc": "A hot stew with beef, kidney beans, tomatoes, corn, and oregano seasoning."
         },
         {
             "name": "Clam Chowder Soup",
-            "img": "../images/all_day/salads_and_soups/clam_chowder.png",
+            "img": "./images/all-day/salads-and-soups/clam-chowder.png",
             "price": 9.59,
             "cal": 250,
             "desc": "A hearty soup with clams and potatoes in a creamy broth."
@@ -192,28 +192,28 @@
     "Sides":[
         {
             "name": "Mozzarella Sticks",
-            "img": "../images/all_day/sides/mozzarella_sticks.png",
+            "img": "./images/all-day/sides/mozzarella-sticks.png",
             "price": 2.99,
             "cal": 300,
             "desc": "Five (5) mozzarella sticks served with your choice of ranch or marinara sauce."
         },
         {
             "name": "Onion Rings",
-            "img": "../images/all_day/sides/onion_rings.png",
+            "img": "./images/all-day/sides/onion-rings.png",
             "price": 3.59,
             "cal": 280,
             "desc": "A tray of fried onion rings."
         },
         {
             "name": "Fries",
-            "img": "../images/all_day/sides/fries.png",
+            "img": "./images/all-day/sides/fries.png",
             "price": 3.59,
             "cal": 265,
             "desc": "A tray of our seasoned fries."
         },
         {
             "name": "Garlic Fries",
-            "img": "../images/all_day/sides/garlic_fries.png",
+            "img": "./images/all-day/sides/garlic-fries.png",
             "price": 3.99,
             "cal": 295,
             "desc": "A tray of fries topped in garlic and parmesan cheese."

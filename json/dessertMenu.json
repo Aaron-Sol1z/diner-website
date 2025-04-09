@@ -2,35 +2,35 @@
     "Dessert":[
         {
             "name": "Apple Pie",
-            "img": "../images/dessert/apple_pie.png",
+            "img": "./images/dessert/apple-pie.png",
             "price": 5.95,
             "cal": 277,
             "desc": "One (1) slice of cinnamon apple pie with a crispy crust."
         },
         {
             "name": "Lemon Meringue Pie",
-            "img": "../images/dessert/lemon_meringue_pie.png",
+            "img": "./images/dessert/lemon-meringue-pie.png",
             "price": 6.95,
             "cal": 362,
             "desc": "One (1) slice of lemon meringue pie with a creamy texture."
         },
         {
             "name": "Pecan Pie",
-            "img": "../images/dessert/pecan_pie.png",
+            "img": "./images/dessert/pecan-pie.png",
             "price": 6.95,
             "cal": 450,
             "desc": "One (1) slice of pecan pie with a sweet, maple filling."
         },
         {
             "name": "Ice Cream",
-            "img": "../images/dessert/ice_cream.png",
+            "img": "./images/dessert/ice-cream.png",
             "price": 6.49,
             "cal": 180,
             "desc": "Two (2) scoops of your choice of vanilla, chocolate, or strawberry ice cream, topped with whipped cream and a cherry."
         },
         {
             "name": "Milkshake",
-            "img": "../images/dessert/milkshake.png",
+            "img": "./images/dessert/milkshake.png",
             "price": 5.29,
             "cal": 350,
             "desc": "Eight (8) oz. milkshake with your choice of vanilla, chocolate, or strawberry flavor."
